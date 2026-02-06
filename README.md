@@ -1,11 +1,27 @@
-# DSA and Lab Work Repository
+# Lab Work and Submissions Repository
 
-This repository contains:
-
-## 📂 DSA
-Organized implementations of Data Structures and Algorithms.
+This repository contains my college laboratory work and programming submissions.
 
 ## 📂 Lab Submissions
-Programs submitted for college labs.
 
-Maintained by: Pratyush Deo Singh
+Each folder represents a lab session and contains the programs submitted for that lab.
+
+Example structure:
+
+Lab-Submissions/
+- LAB1
+- LAB2
+- LAB3
+- LAB4
+- LAB5
+
+## Languages Used
+- C
+- C++
+- Python (if applicable)
+
+## Purpose
+This repository serves as:
+- A backup of my lab work  
+- A record of academic programming practice  
+
