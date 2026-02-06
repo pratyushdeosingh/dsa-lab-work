@@ -18,7 +18,6 @@ Lab-Submissions/
 ## Languages Used
 - C
 - C++
-- Python
 
 ## Purpose
 This repository serves as:
